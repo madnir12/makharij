@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/makharij/static/css/main.c1473c16.chunk.css",
+    "main.js": "/makharij/static/js/main.f574504f.chunk.js",
+    "main.js.map": "/makharij/static/js/main.f574504f.chunk.js.map",
+    "runtime-main.js": "/makharij/static/js/runtime-main.13db407d.js",
+    "runtime-main.js.map": "/makharij/static/js/runtime-main.13db407d.js.map",
+    "static/js/2.f5a348ec.chunk.js": "/makharij/static/js/2.f5a348ec.chunk.js",
+    "static/js/2.f5a348ec.chunk.js.map": "/makharij/static/js/2.f5a348ec.chunk.js.map",
+    "index.html": "/makharij/index.html",
+    "precache-manifest.a6dbc95aad0f07e5a56d2fa30a01bcb7.js": "/makharij/precache-manifest.a6dbc95aad0f07e5a56d2fa30a01bcb7.js",
+    "service-worker.js": "/makharij/service-worker.js",
+    "static/css/main.c1473c16.chunk.css.map": "/makharij/static/css/main.c1473c16.chunk.css.map",
+    "static/js/2.f5a348ec.chunk.js.LICENSE.txt": "/makharij/static/js/2.f5a348ec.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/makharij/static/media/Jameel Noori Nastaleeq .64250498.ttf",
+    "static/media/Wrong-answer-sound-effect.mp3": "/makharij/static/media/Wrong-answer-sound-effect.093eed4f.mp3",
+    "static/media/correct-answer.mp3": "/makharij/static/media/correct-answer.d0c5f222.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13db407d.js",
+    "static/js/2.f5a348ec.chunk.js",
+    "static/css/main.c1473c16.chunk.css",
+    "static/js/main.f574504f.chunk.js"
+  ]
+}
