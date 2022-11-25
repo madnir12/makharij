@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "820701d56c15ff0bfb6fa848b914e209",
+    "revision": "237851233ed363aa909c85223d7d11f6",
     "url": "/makharij/index.html"
   },
   {
-    "revision": "00ddddd78d934c5fd8c8",
+    "revision": "82eaa3ee56c7bcfeed4a",
     "url": "/makharij/static/css/main.c1473c16.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/makharij/static/js/2.f5a348ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00ddddd78d934c5fd8c8",
-    "url": "/makharij/static/js/main.cc03f3fc.chunk.js"
+    "revision": "82eaa3ee56c7bcfeed4a",
+    "url": "/makharij/static/js/main.98e0d2b6.chunk.js"
   },
   {
     "revision": "6f60958efc4173769031",

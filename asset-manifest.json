@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/makharij/static/css/main.c1473c16.chunk.css",
-    "main.js": "/makharij/static/js/main.cc03f3fc.chunk.js",
-    "main.js.map": "/makharij/static/js/main.cc03f3fc.chunk.js.map",
+    "main.js": "/makharij/static/js/main.98e0d2b6.chunk.js",
+    "main.js.map": "/makharij/static/js/main.98e0d2b6.chunk.js.map",
     "runtime-main.js": "/makharij/static/js/runtime-main.13db407d.js",
     "runtime-main.js.map": "/makharij/static/js/runtime-main.13db407d.js.map",
     "static/js/2.f5a348ec.chunk.js": "/makharij/static/js/2.f5a348ec.chunk.js",
     "static/js/2.f5a348ec.chunk.js.map": "/makharij/static/js/2.f5a348ec.chunk.js.map",
     "index.html": "/makharij/index.html",
-    "precache-manifest.c693eae3818ac177dfb777db61957147.js": "/makharij/precache-manifest.c693eae3818ac177dfb777db61957147.js",
+    "precache-manifest.7e63d9696fd73e4e87d2944bc55d5b98.js": "/makharij/precache-manifest.7e63d9696fd73e4e87d2944bc55d5b98.js",
     "service-worker.js": "/makharij/service-worker.js",
     "static/css/main.c1473c16.chunk.css.map": "/makharij/static/css/main.c1473c16.chunk.css.map",
     "static/js/2.f5a348ec.chunk.js.LICENSE.txt": "/makharij/static/js/2.f5a348ec.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.13db407d.js",
     "static/js/2.f5a348ec.chunk.js",
     "static/css/main.c1473c16.chunk.css",
-    "static/js/main.cc03f3fc.chunk.js"
+    "static/js/main.98e0d2b6.chunk.js"
   ]
 }
