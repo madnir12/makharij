@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/makharij/static/css/main.c1473c16.chunk.css",
+    "main.css": "/makharij/static/css/main.b9f3170b.chunk.css",
     "main.js": "/makharij/static/js/main.98e0d2b6.chunk.js",
     "main.js.map": "/makharij/static/js/main.98e0d2b6.chunk.js.map",
     "runtime-main.js": "/makharij/static/js/runtime-main.13db407d.js",
@@ -8,9 +8,9 @@
     "static/js/2.f5a348ec.chunk.js": "/makharij/static/js/2.f5a348ec.chunk.js",
     "static/js/2.f5a348ec.chunk.js.map": "/makharij/static/js/2.f5a348ec.chunk.js.map",
     "index.html": "/makharij/index.html",
-    "precache-manifest.7e63d9696fd73e4e87d2944bc55d5b98.js": "/makharij/precache-manifest.7e63d9696fd73e4e87d2944bc55d5b98.js",
+    "precache-manifest.2dc5d8644fd4da3b09112464b9582b00.js": "/makharij/precache-manifest.2dc5d8644fd4da3b09112464b9582b00.js",
     "service-worker.js": "/makharij/service-worker.js",
-    "static/css/main.c1473c16.chunk.css.map": "/makharij/static/css/main.c1473c16.chunk.css.map",
+    "static/css/main.b9f3170b.chunk.css.map": "/makharij/static/css/main.b9f3170b.chunk.css.map",
     "static/js/2.f5a348ec.chunk.js.LICENSE.txt": "/makharij/static/js/2.f5a348ec.chunk.js.LICENSE.txt",
     "static/media/index.css": "/makharij/static/media/Jameel Noori Nastaleeq .64250498.ttf",
     "static/media/Wrong-answer-sound-effect.mp3": "/makharij/static/media/Wrong-answer-sound-effect.093eed4f.mp3",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.13db407d.js",
     "static/js/2.f5a348ec.chunk.js",
-    "static/css/main.c1473c16.chunk.css",
+    "static/css/main.b9f3170b.chunk.css",
     "static/js/main.98e0d2b6.chunk.js"
   ]
 }
